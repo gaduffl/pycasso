@@ -516,7 +516,7 @@ class Pycasso:
         return draw
 
     def run(self):
-        logging.info("pycasso has begun")
+        logging.info("pycasso has beguuuun")
 
         try:
             epd = displayfactory.load_display_driver(self.config.display_type, self.config_dict)
